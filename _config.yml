@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Diaconesq
-tagline:          'You live, you learn.'
-description:      'descr here'
+tagline:          'Live & learn'
+description:      'Live & *learn*'
 url:              http://blog.diaconesq.ro
 baseurl:          /
 
