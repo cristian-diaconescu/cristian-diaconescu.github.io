@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Diaconesq
 tagline:          'You live, you learn.'
-description:      ''
+description:      'descr here'
 url:              http://blog.diaconesq.ro
 baseurl:          /
 
