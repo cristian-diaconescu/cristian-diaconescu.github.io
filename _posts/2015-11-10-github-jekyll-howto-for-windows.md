@@ -3,6 +3,7 @@ layout: post
 title: How to write and preview a Github Pages blog post locally on Windows
 #excerpt_separator: <!-- more -->
 categories: jekyll github-pages
+comments: true
 ---
 So you're editing a post on a blog hosted on Github Pages, but you'd like to preview your masterpiece-in-the-making on your own machine before bestowing it upon the whole world? This is a step-by-step tutorial to achieve that, with an emphasis on Windows.
 
