@@ -1,5 +1,5 @@
 ---
-date: nov 30, 2015
+layout: post
 title: Mac tips & shortcuts for Windows users 
 ---
 
