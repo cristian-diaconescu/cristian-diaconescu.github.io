@@ -26,7 +26,9 @@ But I like to keep unrelated things separate, so it's time to refactor the snipp
 
 In the post template file, I replaced the Disqus snippet with a single line: 
 
+{% raw %} 
     {% include comments.html %}
+{% endraw %} 
 
 I have then created `/_includes/comments.html` and pasted the Disqus code there. 
 
