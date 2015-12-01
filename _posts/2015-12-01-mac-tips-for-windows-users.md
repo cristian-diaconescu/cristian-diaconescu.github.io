@@ -117,7 +117,7 @@ I was blown away by how well integrated this feature is. As far as I know, there
 
  In most applications that deal with documents, go to `File > Revert to > Browse All versions` and find all the previous versions of the document you're working with, neatly displayed, one for every time you pressed `Save`.
  
- ## The tip of the iceberg
+## The tip of the iceberg
  
  The points I have touched are just things off the top of my tired, sleepy head late at night. 
  I'm pretty sure I have missed things I do regularly. 
