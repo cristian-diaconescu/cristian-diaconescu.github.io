@@ -10,10 +10,11 @@ permalink:        pretty
 
 # Setup
 title:            Diaconesq
-tagline:          'Live & learn'
-description:      'Live & <em>learn</em>'
+tagline:          'Learn & let learn'
+description:      'Learn & <em>let learn</em>'
 url:              http://blog.diaconesq.ro
 baseurl:          /
+comments:         true
 
 author:
   name:           'Cristian Diaconescu'
