@@ -2,6 +2,7 @@
 layout: post
 title: Mac tips & shortcuts for Windows users 
 categories: mac tips-and-tricks productivity
+comments: false
 ---
 
 I'm a Windows user. I grok Windows. It feels at home. When I open a Mac, it feels alien. There are things I like right off the bat - a nice screen, a backlit keyboard, good battery (yes please!) and many UI metaphors are just the same 
