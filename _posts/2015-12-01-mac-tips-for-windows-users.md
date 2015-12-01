@@ -116,3 +116,13 @@ Switch between tabs | Ctrl-Tab/Ctrl-Shift-Tab | Cmd-Alt-left/right
 I was blown away by how well integrated this feature is. As far as I know, there's nothing as streamlined in Windows. 
 
  In most applications that deal with documents, go to `File > Revert to > Browse All versions` and find all the previous versions of the document you're working with, neatly displayed, one for every time you pressed `Save`.
+ 
+ ## The tip of the iceberg
+ 
+ The points I have touched are just things off the top of my tired, sleepy head late at night. 
+ I'm pretty sure I have missed things I do regularly. 
+ 
+ And I am *certain* there are so many tricks that I simply don't know.
+ 
+ I would love to hear about *your* favourite tricks in the comments! You know... **learn and let learn*.
+ 
