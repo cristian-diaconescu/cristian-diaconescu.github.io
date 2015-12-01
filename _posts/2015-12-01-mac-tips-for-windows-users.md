@@ -124,5 +124,5 @@ I was blown away by how well integrated this feature is. As far as I know, there
  
  And I am *certain* there are so many tricks that I simply don't know.
  
- I would love to hear about *your* favourite tricks in the comments! You know... **learn and let learn*.
+ I would love to hear about *your* favourite tricks in the comments! You know... *learn and let learn*.
  
