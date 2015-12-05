@@ -66,6 +66,8 @@ It does something different in OS X than in Windows: it closes the *current* win
  
 You can quickly tell which apps are running by the little dot under their icon in the *dock*.
 
+![active apps in dock]({{ site.baseurl }}/public/img/mac-dock-active-apps.png)
+
 If you want to really close the *application*, you need to right-click (or `Ctrl-click`) its dock icon and click `Quit`.
 
 To recap:
