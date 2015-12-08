@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dr. Jekyll, got any comments?
+categories: jekyll disqus
 ---
 
 I feel that writing blog posts with Jekill is empowering.  
